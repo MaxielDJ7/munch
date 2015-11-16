@@ -1,0 +1,23 @@
+doctype defines html document
+
+semantic html : html elements describes the content of the page 
+	ex. if you have a postal address it describes your address
+
+< html class ="no0js" lang="">
+
+html= element
+class & lang= attribute 
+bracket = tag
+
+<meta charset = "utf-8"> 
+	defines what ascii characters to present 
+
+<meta http-quiv= ....
+	forces browser to respond accordingly to the website 
+
+< meta name="description" 
+
+	describes website content for SEO purposes 
+
+clone boiler plate, put it on afs, make a change, committ, upload to git
+link to respository on moodle
