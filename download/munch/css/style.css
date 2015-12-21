@@ -117,26 +117,38 @@ margin: 0px 0px 20px 0px;
 color: #ffffff;
 text-align: center;
 font-size:24px;
+margin: 0px 0px 57px 0px;
 
 }
 
 #search{
 
 width: 545px;
-background: pink;
 margin: 0 auto; 
 
 }
+
+
 
 .search-text{
 height: 60px;
 width: 430px;
 background: #ffffff;
-margin: 0 10px 0 0; 
+margin: 0px 10px 35px 0px; 
 float: left;
 border-radius: 10px;
+color: #a6aab3;
+text-indent: 10px;
+font-size: 20px;
 
 }
+
+.search-text img{
+ 
+padding: 15px 0px 0px 10px;
+float: left;
+}
+
 
 .search-button{
 
@@ -146,6 +158,16 @@ float: left;
 border-radius: 10px;
 text-align: center;
 padding: 22px 0px;
+color: #ffffff;
+}
+
+#arrow{
+width: 65px;
+margin: 0 auto;
+display: block;
+position: relative;
+padding: 0px 0px 18px 0px;
+
 }
 
 /*********How-it-Works*******/
