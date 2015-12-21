@@ -110,14 +110,19 @@ padding: 40px 0px 0px 0px ;
 
 color: #ffffff; 
 margin: 0px 0px 20px 0px;
+font-size: 60px;
+font-family: 'Kameron', serif;
+font-weight: 700; 
+letter-spacing: 10px;
 
 }
 
 #feature p{
 color: #ffffff;
 text-align: center;
+font-family: 'Kameron', serif;
 font-size:24px;
-margin: 0px 0px 57px 0px;
+margin: 0px 0px 50px 0px;
 
 }
 
@@ -137,9 +142,13 @@ background: #ffffff;
 margin: 0px 10px 35px 0px; 
 float: left;
 border-radius: 10px;
+
 color: #a6aab3;
 text-indent: 10px;
 font-size: 20px;
+line-height: 300% ;
+text-indent: 10px; 
+font-family: 'PT Sans', sans-serif;
 
 }
 
@@ -156,9 +165,12 @@ width: 105px;
 background: #dde5ec; 
 float: left;
 border-radius: 10px;
-text-align: center;
-padding: 22px 0px;
+padding: 21px 0px;
+
 color: #ffffff;
+text-align: center;
+font-size: 18px;
+font-family: 'PT Sans', sans-serif;
 }
 
 #arrow{
@@ -188,6 +200,8 @@ font-size:40px;
 text-align: center; 
 color: #2e4356;
 margin: 40px 0px;
+font-family: 'Kameron', serif;
+font-weight: 700;
 }
 
 h3{
@@ -195,6 +209,8 @@ font-size:18px;
 text-align: center;
 color: #2e4356;
 margin: 0px 0px 20px 0px;
+font-family: 'Kameron', serif;
+font-weight: 400; 
 }
 
 .third img{
@@ -221,6 +237,8 @@ padding: 30px 0px 0px 0px;
 }
 
 #tom p{
+font-family: 'PT Sans', sans-serif;
+font-weight: 400;
 font-size: 30px;
 color: #ffffff; 
 text-align: center;
@@ -231,6 +249,8 @@ margin:0px 0px 20px 0px;
 
 #tom h2{
 margin:40px 0px 20px 0px;
+font-family: 'Kameron', serif;
+font-weight: 700;
 }
 
 #tom img{
